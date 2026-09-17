@@ -2,6 +2,8 @@
 
 Este repositório é destinado a armazenar exemplos programados em sala, enunciados de exercícios, bem como demais materiais didáticos relacionados ao curso. O repositório pode ser **"forkado"** (_garfado_) pelos estudantes para terem acesso ao conteúdo e desenvolverem suas atividades no diretório `📁 exercicios-aluno`.
 
+Alteração no README.md
+
 ## Criando fork 🔀
 
 Criar um fork irá criar um novo repositório idêntico a este, mas na sua conta, para isso, clique no botão `Fork` na área superior e siga as instruções.
